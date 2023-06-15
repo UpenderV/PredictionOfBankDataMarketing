@@ -5,3 +5,7 @@ The "Bank Marketing" dataset obtained from the UCI Machine Learning repository c
 
 The dataset requires some data preparation steps before applying machine learning techniques. There are no missing values in the dataset, eliminating the need for imputation or removal of incomplete instances. However, some categorical features may have unknown or unspecified categories, requiring handling during analysis.
 
+Applied the Logistic Regression , SVM and K-means Clustering alogirthms to predict the target varaible. Predicted the y against all varibales in the scenario 1 and predicted tge y against selected features in the scenario 2 .
+
+Logisitic Regression and SVM Model are predicting the target variable with the accuracy near to 90 % in the both the scenarios .
+
