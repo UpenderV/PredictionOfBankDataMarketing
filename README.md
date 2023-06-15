@@ -9,3 +9,5 @@ Applied the Logistic Regression , SVM and K-means Clustering alogirthms to predi
 
 Logisitic Regression and SVM Model are predicting the target variable with the accuracy near to 90 % in the both the scenarios .
 
+Based on the Results and outputs Job,Duration,Bank Rate , Consi index are important features which effecting the predicitng the outcome.
+other than above Market Campaign and Season wise and customer wise offerings will give best outputs to the Bank.
